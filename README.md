@@ -1,6 +1,8 @@
 ## Hi，我是 SeaExculbur
 
-电子信息工程大一学生。目前在用 Flask + Vue3 独立开发全栈项目。
+电子信息工程大二学生。目前正在开发的项目:
+Flask + Vue3 独立开发全栈项目
+TempestAI - 基于SDR电磁测信道的AI攻防平台
 
 ### [AIChat](https://github.com/SeaExculbur/AIChat) — AI 聊天平台
 
