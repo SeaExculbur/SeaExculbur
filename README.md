@@ -4,7 +4,7 @@
 
 Flask + Vue3 独立开发全栈项目
 
-TempestAI - 基于SDR电磁测信道的AI攻防平台
+TempestAI - 基于SDR电磁侧信道的AI攻防平台
 
 ### [AIChat](https://github.com/SeaExculbur/AIChat) — AI 聊天平台
 
